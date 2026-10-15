@@ -51,7 +51,7 @@ export const deletecust = async (req, res) => {
         }
 
         res.status(200).json({
-            message: "Customer deleted successfully",
+            message: "Customer deleted sssssuccessfulllyyyyyy",
             custdata: deletedcust
         });
     }
